@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ePizza.UI\\ePizza.UI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ePizza.API\\ePizza.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
