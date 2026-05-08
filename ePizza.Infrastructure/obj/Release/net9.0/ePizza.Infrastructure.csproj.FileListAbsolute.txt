@@ -1,0 +1,15 @@
+D:\Certification_Schoolarhat\Final_Core_MVC_Project\ePizza\ePizza.Infrastructure\bin\Release\net9.0\ePizza.Infrastructure.deps.json
+D:\Certification_Schoolarhat\Final_Core_MVC_Project\ePizza\ePizza.Infrastructure\bin\Release\net9.0\ePizza.Infrastructure.dll
+D:\Certification_Schoolarhat\Final_Core_MVC_Project\ePizza\ePizza.Infrastructure\bin\Release\net9.0\ePizza.Infrastructure.pdb
+D:\Certification_Schoolarhat\Final_Core_MVC_Project\ePizza\ePizza.Infrastructure\bin\Release\net9.0\ePizza.Domain.dll
+D:\Certification_Schoolarhat\Final_Core_MVC_Project\ePizza\ePizza.Infrastructure\bin\Release\net9.0\ePizza.Domain.pdb
+D:\Certification_Schoolarhat\Final_Core_MVC_Project\ePizza\ePizza.Infrastructure\obj\Release\net9.0\ePizza.Infrastructure.csproj.AssemblyReference.cache
+D:\Certification_Schoolarhat\Final_Core_MVC_Project\ePizza\ePizza.Infrastructure\obj\Release\net9.0\ePizza.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Certification_Schoolarhat\Final_Core_MVC_Project\ePizza\ePizza.Infrastructure\obj\Release\net9.0\ePizza.Infrastructure.AssemblyInfoInputs.cache
+D:\Certification_Schoolarhat\Final_Core_MVC_Project\ePizza\ePizza.Infrastructure\obj\Release\net9.0\ePizza.Infrastructure.AssemblyInfo.cs
+D:\Certification_Schoolarhat\Final_Core_MVC_Project\ePizza\ePizza.Infrastructure\obj\Release\net9.0\ePizza.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Certification_Schoolarhat\Final_Core_MVC_Project\ePizza\ePizza.Infrastructure\obj\Release\net9.0\ePizza.I.8B1C12C8.Up2Date
+D:\Certification_Schoolarhat\Final_Core_MVC_Project\ePizza\ePizza.Infrastructure\obj\Release\net9.0\ePizza.Infrastructure.dll
+D:\Certification_Schoolarhat\Final_Core_MVC_Project\ePizza\ePizza.Infrastructure\obj\Release\net9.0\refint\ePizza.Infrastructure.dll
+D:\Certification_Schoolarhat\Final_Core_MVC_Project\ePizza\ePizza.Infrastructure\obj\Release\net9.0\ePizza.Infrastructure.pdb
+D:\Certification_Schoolarhat\Final_Core_MVC_Project\ePizza\ePizza.Infrastructure\obj\Release\net9.0\ref\ePizza.Infrastructure.dll
