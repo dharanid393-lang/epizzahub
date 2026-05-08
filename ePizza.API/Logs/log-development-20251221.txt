@@ -1,0 +1,6 @@
+2025-12-21 21:08:11.791 [DELL|0HNI0KQLJ1HBH:00000001|Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Item" responded 200 in 95624.0777 ms
+2025-12-21 21:09:06.271 [DELL|0HNI0KQLJ1HBJ:00000001|Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Item" responded 200 in 14917.9409 ms
+2025-12-21 21:11:19.916 [DELL|0HNI0KQLJ1HBK:00000001|Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Item" responded 200 in 328.8763 ms
+2025-12-21 21:11:21.384 [DELL|0HNI0KQLJ1HBK:00000003|Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Item" responded 200 in 7.7274 ms
+2025-12-21 21:11:22.588 [DELL|0HNI0KQLJ1HBK:00000005|Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Item" responded 200 in 4.0640 ms
+2025-12-21 21:11:23.922 [DELL|0HNI0KQLJ1HBL:00000001|Serilog.AspNetCore.RequestLoggingMiddleware] HTTP "GET" "/api/Item" responded 200 in 4.8909 ms
